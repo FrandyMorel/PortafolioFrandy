@@ -27,7 +27,7 @@ const CoverParticles = () => {
 
 return (
         init &&
-        <div className="w-[0px]">
+        <div className="w-0">
          <Particles
             id="tsparticles"          
             options={{
